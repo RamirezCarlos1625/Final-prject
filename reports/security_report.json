@@ -1,0 +1,34 @@
+[
+    {
+        "time": "2026-06-01 08:15:22",
+        "event_id": 4625,
+        "user": "jdoe",
+        "technique": "T1110",
+        "tactic": "Credential Access",
+        "description": "Brute Force Login Attempt"
+    },
+    {
+        "time": "2026-06-01 08:20:10",
+        "event_id": 4624,
+        "user": "jdoe",
+        "technique": "T1078",
+        "tactic": "Initial Access",
+        "description": "Valid Account Login"
+    },
+    {
+        "time": "2026-06-01 09:00:05",
+        "event_id": 4720,
+        "user": "admin",
+        "technique": "T1136",
+        "tactic": "Persistence",
+        "description": "Create Account"
+    },
+    {
+        "time": "2026-06-01 09:15:12",
+        "event_id": 7045,
+        "user": "system",
+        "technique": "T1543",
+        "tactic": "Persistence",
+        "description": "Service Installation"
+    }
+]
